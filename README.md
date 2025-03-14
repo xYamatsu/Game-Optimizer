@@ -52,29 +52,11 @@ Tweaks like modifying Windows' registry for Game Mode and adjusting network sett
 Dark Mode:
 The app uses Tkinter to change the theme dynamically. It updates the background color of the main window and all child widgets to create an immersive dark or light experience, depending on the user’s preference.
 
-🖥️ Installation & Usage:
-Clone the repository:
 
-bash
-Copia
-Modifica
-git clone https://github.com/xYamatsu/Game-Optimizer.git
-Install the required libraries:
-
-bash
-Copia
-Modifica
-pip install tkinter
-Run the application:
-
-bash
-Copia
-Modifica
-python game_optimizer.py
-Start optimizing:
 
 Click on the buttons to activate each optimization feature.
 Enjoy a smoother, faster gaming experience!
+
 📢 Contribute:
 We'd love your contributions! If you have an idea to make this tool even better, feel free to open a pull request. Let's make gaming more efficient together! 🎮💪
 
